@@ -1,0 +1,19 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border-radius: 20%;
+}
+
+.border_example {
+    background-color: blueviolet;
+    border: 20px groove;
+    box-sizing: border-box;
+}
+
+.image_example{
+    background-image: url("https://www.nawpic.com/media/2020/puppy-nawpic-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat ;
+
+}
