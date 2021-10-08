@@ -1,0 +1,9 @@
+.smaller{
+    color: blueviolet;
+}
+
+#bigger {
+    color: brown;
+}
+
+/* Id have superiority over class */

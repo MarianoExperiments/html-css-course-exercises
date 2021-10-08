@@ -1,0 +1,9 @@
+p{
+    color: blueviolet;
+}
+
+[contenteditable=true] {
+    color: green;
+}
+
+/* Attribute has superiority over element */

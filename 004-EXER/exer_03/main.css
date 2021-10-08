@@ -1,0 +1,9 @@
+p{
+    color: blueviolet;
+}
+
+.smaller {
+    color: brown;
+}
+
+/* Class have superiority over element */

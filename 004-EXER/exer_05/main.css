@@ -1,0 +1,9 @@
+.bigger{
+    color: blueviolet;
+}
+
+[contenteditable=true] {
+    color: green;
+}
+
+/* Attribute has same value of class */
