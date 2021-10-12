@@ -1,0 +1,25 @@
+p {
+    font-style: italic;
+    text-transform: uppercase;
+    /* letter-spacing: 2rem; */
+    text-indent: 2rem;
+}
+
+
+h1 {
+    font-size: 3rem;
+    text-shadow: 5px 5px 10px purple;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+span {
+    text-decoration: line-through;
+    font-size: 3rem;
+}
