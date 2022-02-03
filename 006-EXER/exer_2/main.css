@@ -1,0 +1,42 @@
+* {
+    border: 1px dashed hotpink;
+}
+
+html {
+    font-size: 2rem;
+}
+
+ul {
+    /* list-style: none; */
+    list-style-type: none;
+}
+
+li {
+    height: auto;
+    width: 200px;
+    border: 2px solid red;
+    border-radius: 50px;
+    display: inline-block;
+    text-align:center;
+}
+
+li:hover{
+    background-color: hotpink;
+}
+
+a{
+    text-decoration-line: none;
+}
+
+/* a:link{
+    color: black;
+}
+a:visited{
+    color: red;
+}
+a:hover{
+    color: royalblue;
+}
+a:active{
+    color: yellow;
+} */
