@@ -3,9 +3,12 @@ html {
     font-size: 14px;
 }
 
-/* * {
+* {
     border: 1px solid black;
-} */
+}
+
+
+/* Header css stylling */
 
 ul {
     list-style-type: none;
@@ -45,4 +48,12 @@ a:hover{
 }
 .signInBtt:hover{
     opacity: 0.75;
+}
+
+/* Main css stylling */
+
+.logoFigure {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
 }
